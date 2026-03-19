@@ -84,7 +84,7 @@ This dashboard focuses on delivery performance and operational reliability.
 ---
 
 ### Customer Experience Performance Dashboard
-![Dashboard 2](screenshot/acreenshot_1.png)
+![Dashboard 2](screenshot/Screenshot_2.png)
 
 This dashboard focuses on identifying drivers of customer satisfaction.
 
