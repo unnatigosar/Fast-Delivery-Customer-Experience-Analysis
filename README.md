@@ -70,7 +70,7 @@ Insight Generation
 ## Dashboard Preview
 
 ### Delivery Experience Performance Dashboard
-![Dashboard 1](screenshots/dashboard1.png)
+![Dashboard 1](screenshot/Screenshot_1.png)
 
 This dashboard focuses on delivery performance and operational reliability.
 
@@ -84,7 +84,7 @@ This dashboard focuses on delivery performance and operational reliability.
 ---
 
 ### Customer Experience Performance Dashboard
-![Dashboard 2](screenshots/dashboard2.png)
+![Dashboard 2](screenshot/acreenshot_1.png)
 
 This dashboard focuses on identifying drivers of customer satisfaction.
 
