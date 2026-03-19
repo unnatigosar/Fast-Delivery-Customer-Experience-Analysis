@@ -70,7 +70,7 @@ Insight Generation
 ## Dashboard Preview
 
 ### Delivery Experience Performance Dashboard
-![Dashboard 1](screenshot/Screenshot_1.png)
+![Dashboard 1](Fast-Delivery-Customer-Experience-Analysis/Screenshot_1.png)
 
 This dashboard focuses on delivery performance and operational reliability.
 
