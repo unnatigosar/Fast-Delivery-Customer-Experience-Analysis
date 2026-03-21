@@ -125,8 +125,8 @@ dashboard/
   quick_commerce_dashboard.pbix
 
 screenshots/
-  dashboard1.png
-  dashboard2.png
+  Screenshot 1.png
+  Screenshot 2.png
 
 ---
 
