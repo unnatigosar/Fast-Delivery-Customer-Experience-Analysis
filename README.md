@@ -84,7 +84,7 @@ This dashboard focuses on delivery performance and operational reliability.
 ---
 
 ### Customer Experience Performance Dashboard
-![Dashboard 2](screenshot/Screenshot_2.png)
+![Dashboard 2](https://github.com/unnatigosar/Fast-Delivery-Customer-Experience-Analysis/blob/67fbec08089e3b53d87a6eb1cfd80d4557fda3dd/Screenshot%202.png)
 
 This dashboard focuses on identifying drivers of customer satisfaction.
 
